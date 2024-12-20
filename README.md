@@ -1,7 +1,7 @@
 # CRYPTOGRAPHY-PROJECT-USING-SYMMETRIC-ALGORITHM
 Cryptography Project using Symmetric Algorithm Code, Document And Video Tutorial
 
-![image](https://github.com/user-attachments/assets/9741692e-fbd2-4b83-87f7-ee4fdbbbb287)
+![crypto symmetric ](https://github.com/user-attachments/assets/02dd269f-2f6d-4fcf-bdc6-018eb7f05896)
 
 ## Youtube link: https://youtu.be/ZSW6ZTxEiBo?si=LOr_l4iM0xNMTUg9
 
