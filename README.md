@@ -1,4 +1,4 @@
-# CRYPTOGRAPHY-PROJECT-USING-SYMMETRIC-ALGORITHM
+# CRYPTOGRAPHY PROJECT USING SYMMETRIC ALGORITHM
 Cryptography Project using Symmetric Algorithm Code, Document And Video Tutorial
 
 ![crypto symmetric ](https://github.com/user-attachments/assets/02dd269f-2f6d-4fcf-bdc6-018eb7f05896)
